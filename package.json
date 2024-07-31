@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ostrich-white/asset-management-api/issues"
   },
-  "homepage": "https://github.com/ostrich-white/asset-management-api#readme"
+  "homepage": "https://github.com/ostrich-white/asset-management-api#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
