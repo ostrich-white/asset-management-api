@@ -19,6 +19,7 @@
   "homepage": "https://github.com/ostrich-white/asset-management-api#readme",
   "dependencies": {
     "express": "^4.19.2",
-    "nodemon": "^3.1.4"
+    "nodemon": "^3.1.4",
+    "typescript": "^5.5.4"
   }
 }
